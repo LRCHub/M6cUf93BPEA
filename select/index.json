@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "銀の龍の背に乗って[Ginno-Ryuuno-seni-notte]　/　中島みゆき　ドラマ『Dr.コトー診療所』主題歌Unplugged cover by Ai Ninomiya",
+  "base_artist": "Ai Ninomiya",
+  "createdAt": "2025-12-01T22:54:02.017113Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "銀の龍の背に乗って",
+      "artist": "中島 みゆき",
+      "has_synced": false,
+      "path": "select/pl_01_銀の龍の背に乗って_中島_みゆき.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "銀の龍の背に乗って",
+      "artist": "中島 みゆき",
+      "has_synced": false,
+      "path": "select/pl_02_銀の龍の背に乗って_中島_みゆき.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "銀の龍の背に乗って",
+      "artist": "中島 みゆき",
+      "has_synced": false,
+      "path": "select/pl_03_銀の龍の背に乗って_中島_みゆき.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "銀の龍の背に乗って",
+      "artist": "中島 みゆき",
+      "has_synced": false,
+      "path": "select/pl_04_銀の龍の背に乗って_中島_みゆき.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "銀の龍の背に乗って",
+      "artist": "中島 みゆき",
+      "has_synced": false,
+      "path": "select/pl_05_銀の龍の背に乗って_中島_みゆき.txt"
+    }
+  ]
+}
